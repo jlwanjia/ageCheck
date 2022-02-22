@@ -1,0 +1,17 @@
+C:\Users\jlwan\source\repos\C#\ageCheck\ageCheck\bin\Debug\net6.0-windows\ageCheck.exe
+C:\Users\jlwan\source\repos\C#\ageCheck\ageCheck\bin\Debug\net6.0-windows\ageCheck.deps.json
+C:\Users\jlwan\source\repos\C#\ageCheck\ageCheck\bin\Debug\net6.0-windows\ageCheck.runtimeconfig.json
+C:\Users\jlwan\source\repos\C#\ageCheck\ageCheck\bin\Debug\net6.0-windows\ageCheck.dll
+C:\Users\jlwan\source\repos\C#\ageCheck\ageCheck\bin\Debug\net6.0-windows\ref\ageCheck.dll
+C:\Users\jlwan\source\repos\C#\ageCheck\ageCheck\bin\Debug\net6.0-windows\ageCheck.pdb
+C:\Users\jlwan\source\repos\C#\ageCheck\ageCheck\obj\Debug\net6.0-windows\ageCheck.csproj.AssemblyReference.cache
+C:\Users\jlwan\source\repos\C#\ageCheck\ageCheck\obj\Debug\net6.0-windows\ageCheck.Form1.resources
+C:\Users\jlwan\source\repos\C#\ageCheck\ageCheck\obj\Debug\net6.0-windows\ageCheck.csproj.GenerateResource.cache
+C:\Users\jlwan\source\repos\C#\ageCheck\ageCheck\obj\Debug\net6.0-windows\ageCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlwan\source\repos\C#\ageCheck\ageCheck\obj\Debug\net6.0-windows\ageCheck.AssemblyInfoInputs.cache
+C:\Users\jlwan\source\repos\C#\ageCheck\ageCheck\obj\Debug\net6.0-windows\ageCheck.AssemblyInfo.cs
+C:\Users\jlwan\source\repos\C#\ageCheck\ageCheck\obj\Debug\net6.0-windows\ageCheck.csproj.CoreCompileInputs.cache
+C:\Users\jlwan\source\repos\C#\ageCheck\ageCheck\obj\Debug\net6.0-windows\ageCheck.dll
+C:\Users\jlwan\source\repos\C#\ageCheck\ageCheck\obj\Debug\net6.0-windows\ref\ageCheck.dll
+C:\Users\jlwan\source\repos\C#\ageCheck\ageCheck\obj\Debug\net6.0-windows\ageCheck.pdb
+C:\Users\jlwan\source\repos\C#\ageCheck\ageCheck\obj\Debug\net6.0-windows\ageCheck.genruntimeconfig.cache
